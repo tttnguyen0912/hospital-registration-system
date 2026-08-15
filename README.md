@@ -104,7 +104,6 @@ The proposed TO-BE process is designed to address the issues identified during t
 | 💰 Cost estimation | Not available | Upfront | ✅ New feature |
 | 📊 Reporting | Manual | Dashboard-based | ✅ New feature |
 
-> **Note:** TO-BE figures represent proposed targets based on analysis, not results from a production system.
 
 
 ## 8. Technologies & Tools
